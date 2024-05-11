@@ -1,3 +1,5 @@
+Project Plan:
+
 -installation of ubuntu 20.4 on the local machine.
 -installation of docker-engine on ubuntu 20.4.
 -installation of minikube cluster and kubectl on ubuntu 20.4.
